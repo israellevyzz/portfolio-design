@@ -6,7 +6,6 @@ document.querySelectorAll('.navbar a').forEach(link => {
   });
 });
 
-//menu
 const menuToggle = document.querySelector('.menu-toggle');
 const nav = document.querySelector('.navbar nav');
 
